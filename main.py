@@ -56,7 +56,7 @@ else:
 
 #Question 6 
 print("\nWhat year did WW2 end?")
-answer6 = input("Q6 Answer: ").lower()
+answer6 = input("Q6 Answer: ")
 
 if answer6 == "1945":
     print("Correct")
